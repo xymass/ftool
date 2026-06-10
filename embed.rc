@@ -1,0 +1,2 @@
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "ftool-gui.manifest"
+2000 ICON "ftool-gui.ico"
